@@ -1,0 +1,9 @@
+{
+  "name": "random1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo testing common with version: $version"
+  }
+}
